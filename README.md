@@ -1,6 +1,8 @@
 # dotnet-task-manager
 .NET project 
 
+Main Document https://docs.google.com/document/d/1Jhu3Ldqhbse2kRX-FJ7a1eOsICO9npv3FJc7ZFfKvU4/edit?tab=t.0
+
 
 Step 1: Setup Your Project
 1️ Install .NET SDK
