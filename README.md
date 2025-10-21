@@ -28,7 +28,9 @@ git init
 
 Then create a new ASP.NET MVC project:
 
-dotnet new mvc -n TaskManagerApp
+Run this command to create the MVC project:
+
+```dotnet new mvc -n TaskManagerApp```
 cd TaskManagerApp
 
 
